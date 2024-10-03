@@ -1,16 +1,13 @@
-
 # Dbugger
 
-Dbugger is a powerful debugging tool designed to help developers streamline their debugging process and improve their productivity. This project aims to provide an intuitive interface and various features that simplify the debugging experience.
+Dbugger is a coding bootcamp website designed to teach beginners and foster a tech-driven college community. The platform aims to provide an engaging learning experience for students interested in coding and technology.
 
 ## Features
 
-- **User-friendly Interface**: A clean and simple UI that allows users to navigate easily.
-- **Real-time Error Tracking**: Instantly identify and track errors in your code as you write.
-- **Code Analysis**: Analyze your code for potential issues and suggest improvements.
-- **Breakpoints**: Set breakpoints in your code to pause execution and inspect variables.
-- **Step Through Code**: Step through your code line by line to understand its execution flow.
-- **Customizable Settings**: Personalize the tool to fit your debugging style.
+- **Mentorship**: Over 150+ students have been mentored through the platform, providing guidance and support for beginners.
+- **Technical Content Management**: Organized technical content, including quizzes and tutorials, to facilitate learning.
+- **Hands-on Coding Exercises**: Developed practical coding exercises using HTML, CSS, JavaScript, and Python to enhance students' coding skills.
+- **Interactive Quizzes**: Engage learners with quizzes that reinforce their understanding of coding concepts.
 
 ## Installation
 
